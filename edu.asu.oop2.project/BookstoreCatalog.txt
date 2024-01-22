@@ -1,0 +1,5 @@
+B123456|The Hidden Oracle|Rick Riordan|2016|Disney-Hyperion|Physical
+B234567|The Martian|Andy Weir|2011|Crown|Digital
+B345678|Sapiens: A Brief History of Humankind|Yuval Noah|2014|Harper|Digital
+B456789|Educated|Tara Westover|2018|Random House|Physical
+B567875|The Book|Simon Singh|1997|Anchor Books|Digital
